@@ -1,0 +1,3 @@
+/home/tyb/hello/build/CMakeFiles/rebuild_cache.dir
+/home/tyb/hello/build/CMakeFiles/edit_cache.dir
+/home/tyb/hello/build/CMakeFiles/hello.dir

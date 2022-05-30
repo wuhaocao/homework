@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tyb/hello/main.c
+stdio.h
+-
+testFunc.h
+/home/tyb/hello/testFunc.h
+testFunc1.h
+/home/tyb/hello/testFunc1.h
+
+/home/tyb/hello/testFunc.h
+
+/home/tyb/hello/testFunc1.h
+
